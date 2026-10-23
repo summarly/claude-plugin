@@ -9,7 +9,16 @@
     "url": "https://summarly.com"
   },
   "homepage": "https://summarly.com/mcp",
+  "privacyPolicyUrl": "https://summarly.com/privacy",
   "repository": "https://github.com/summarly/claude-plugin",
   "license": "MIT",
-  "keywords": ["bookkeeping", "accounting", "small business", "transactions", "receipts", "VAT", "cash flow"]
+  "keywords": [
+    "bookkeeping",
+    "accounting",
+    "small business",
+    "transactions",
+    "receipts",
+    "VAT",
+    "cash flow"
+  ]
 }
