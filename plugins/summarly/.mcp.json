@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Summarly": {
+      "type": "http",
+      "url": "https://summarly.com/api/mcp"
+    }
+  }
+}

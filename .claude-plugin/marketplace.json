@@ -1,0 +1,19 @@
+{
+  "name": "summarly",
+  "owner": {
+    "name": "Summarly",
+    "email": "founders@summarly.com",
+    "url": "https://summarly.com"
+  },
+  "metadata": {
+    "description": "Summarly for Claude: ask about your books — transactions, balances, categories and vendors — from your own Claude chats."
+  },
+  "plugins": [
+    {
+      "name": "summarly",
+      "source": "./plugins/summarly",
+      "description": "Connects Claude to your Summarly books (read-only) and adds workflows for reviewing a month, chasing missing receipts, your cash position and supplier spend.",
+      "category": "finance"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "summarly",
+  "displayName": "Summarly",
+  "version": "1.0.0",
+  "description": "Ask about your books from Claude: transactions, balances, categories and vendors from Summarly, read-only, with workflows for a month's review, missing receipts, cash and supplier spend.",
+  "author": {
+    "name": "Summarly",
+    "email": "founders@summarly.com",
+    "url": "https://summarly.com"
+  },
+  "homepage": "https://summarly.com/mcp",
+  "repository": "https://github.com/summarly/claude-plugin",
+  "license": "MIT",
+  "keywords": ["bookkeeping", "accounting", "small business", "transactions", "receipts", "VAT", "cash flow"]
+}
